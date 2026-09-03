@@ -2,6 +2,7 @@
 Black ops 2 Zombies Custom Map
 
 ![IMAGE](https://i.ibb.co/ymTGzS8n/Design-sem-nome-20260827-023246-0000.png)
+![IMAGE](https://i.ibb.co/sJ3M9v9t/image-OCTO.png)
 
 ##BETA 1 RELEASE!!!!!
 
