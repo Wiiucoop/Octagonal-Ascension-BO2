@@ -8,7 +8,7 @@ Black ops 2 Zombies Custom Map
 
 This is a remake from a custom zombies map "Octagonal Ascension", it is a very popular map that originally relesed back in WaW and also Bo3. Some may argue its a port, but this was actually made using the custom map template instead, so in reality only the map model itself was ported directly.
 
-ATTENTION! this is a challenging map, so you have to be prepared!
+ATTENTION! this is a challenging map, so be prepared!
 
 Features: 
 
@@ -33,6 +33,9 @@ Known Limitations:
 * To play, select the new button "Play Octagonal SOLO" or "Play Octagonal CO-OP"
 
 
+**MORE CUSTOM MAPS:**
+[JOIN HERE](https://discord.gg/YaYZfhXygv).
+
 Credits: 
 
 - Psh (Original Mapper)
@@ -45,3 +48,8 @@ Credits:
 - whydoesanyonecare (Boss zombie script)
 - JezuzLizard (Custom Map templates and tutorial videos)
 Let me know if anyone is missing
+
+
+
+[Source code for developers](https://www.mediafire.com/file/n4jtj2ub1z4clk8/zm_octagonal_SOURCECODE.7z/file).
+
