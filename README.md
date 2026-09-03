@@ -6,7 +6,7 @@ Black ops 2 Zombies Custom Map
 
 ##BETA 1 RELEASE!!!!!
 
-This is a remake from a custom zombies map "Octagonal Ascension", it is a very popular map that originally relesed back in WaW and also Bo3. Some may argue its a port, but this was actually made using the custom map template instead, so in reality only the map model itself was ported directly.
+This is a remake from a custom zombies map "Octagonal Ascension", it is a very popular map that originally relesed back in WaW and also Bo3.
 
 ATTENTION! this is a challenging map, so be prepared!
 
